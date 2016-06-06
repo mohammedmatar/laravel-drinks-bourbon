@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/vendor/vlucas/phpdotenv/src" isTestSource="false" packagePrefix="Dotenv" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/laravel/framework/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/namshi/jose/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/namshi/jose/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/zizaco/entrust/src" isTestSource="false" packagePrefix="Zizaco" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/jeremeamia/SuperClosure/src" isTestSource="false" packagePrefix="SuperClosure" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/phpspec/prophecy/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/mockery/mockery/tests" isTestSource="true" packagePrefix="test" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/nikic/php-parser/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/nikic/php-parser/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/nesbot/carbon/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/jakub-onderka/php-console-color/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/jakub-onderka/php-console-highlighter/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/monolog/monolog/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/monolog/monolog/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/psy/psysh/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/psy/psysh/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/phpspec/prophecy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/hamcrest/hamcrest-php/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/hamcrest/hamcrest-php/hamcrest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/maximebf/debugbar/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/mockery/mockery/library" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/mockery/mockery/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/mockery/mockery/tests/Mockery/Test" isTestSource="true" packagePrefix="Mockery" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/psr/log" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/phpdocumentor/reflection-docblock/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/phpdocumentor/reflection-docblock/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/classpreloader/classpreloader/src" isTestSource="false" packagePrefix="ClassPreloader" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/asm89/stack-cors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/asm89/stack-cors/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/instantiator/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/mtdowling/cron-expression/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/fzaninotto/faker/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/fzaninotto/faker/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/inflector/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/lexer/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/inflector/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/annotations/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/instantiator/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../app/vendor/asm89/stack-cors" />
+          <root url="file://$MODULE_DIR$/../app/vendor/barryvdh/laravel-cors" />
+          <root url="file://$MODULE_DIR$/../app/vendor/barryvdh/laravel-debugbar" />
+          <root url="file://$MODULE_DIR$/../app/vendor/classpreloader/classpreloader" />
+          <root url="file://$MODULE_DIR$/../app/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../app/vendor/dingo/api" />
+          <root url="file://$MODULE_DIR$/../app/vendor/dingo/blueprint" />
+          <root url="file://$MODULE_DIR$/../app/vendor/dnoegel/php-xdg-base-dir" />
+          <root url="file://$MODULE_DIR$/../app/vendor/doctrine/annotations" />
+          <root url="file://$MODULE_DIR$/../app/vendor/doctrine/inflector" />
+          <root url="file://$MODULE_DIR$/../app/vendor/doctrine/instantiator" />
+          <root url="file://$MODULE_DIR$/../app/vendor/doctrine/lexer" />
+          <root url="file://$MODULE_DIR$/../app/vendor/fzaninotto/faker" />
+          <root url="file://$MODULE_DIR$/../app/vendor/hamcrest/hamcrest-php" />
+          <root url="file://$MODULE_DIR$/../app/vendor/ircmaxell/password-compat" />
+          <root url="file://$MODULE_DIR$/../app/vendor/jakub-onderka/php-console-color" />
+          <root url="file://$MODULE_DIR$/../app/vendor/jakub-onderka/php-console-highlighter" />
+          <root url="file://$MODULE_DIR$/../app/vendor/jeremeamia/SuperClosure" />
+          <root url="file://$MODULE_DIR$/../app/vendor/laravel/framework" />
+          <root url="file://$MODULE_DIR$/../app/vendor/laravelangular/generators" />
+          <root url="file://$MODULE_DIR$/../app/vendor/league/flysystem" />
+          <root url="file://$MODULE_DIR$/../app/vendor/league/fractal" />
+          <root url="file://$MODULE_DIR$/../app/vendor/maximebf/debugbar" />
+          <root url="file://$MODULE_DIR$/../app/vendor/mockery/mockery" />
+          <root url="file://$MODULE_DIR$/../app/vendor/monolog/monolog" />
+          <root url="file://$MODULE_DIR$/../app/vendor/mtdowling/cron-expression" />
+          <root url="file://$MODULE_DIR$/../app/vendor/namshi/jose" />
+          <root url="file://$MODULE_DIR$/../app/vendor/nesbot/carbon" />
+          <root url="file://$MODULE_DIR$/../app/vendor/nikic/php-parser" />
+          <root url="file://$MODULE_DIR$/../app/vendor/paragonie/random_compat" />
+          <root url="file://$MODULE_DIR$/../app/vendor/phpdocumentor/reflection-docblock" />
+          <root url="file://$MODULE_DIR$/../app/vendor/phpseclib/phpseclib" />
+          <root url="file://$MODULE_DIR$/../app/vendor/phpspec/prophecy" />
+          <root url="file://$MODULE_DIR$/../app/vendor/phpunit/php-code-coverage" />
+          <root url="file://$MODULE_DIR$/../app/vendor/phpunit/php-file-iterator" />
+          <root url="file://$MODULE_DIR$/../app/vendor/phpunit/php-text-template" />
+          <root url="file://$MODULE_DIR$/../app/vendor/phpunit/php-timer" />
+          <root url="file://$MODULE_DIR$/../app/vendor/phpunit/php-token-stream" />
+          <root url="file://$MODULE_DIR$/../app/vendor/phpunit/phpunit" />
+          <root url="file://$MODULE_DIR$/../app/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://$MODULE_DIR$/../app/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../app/vendor/psy/psysh" />
+          <root url="file://$MODULE_DIR$/../app/vendor/sebastian/comparator" />
+          <root url="file://$MODULE_DIR$/../app/vendor/sebastian/diff" />
+          <root url="file://$MODULE_DIR$/../app/vendor/sebastian/environment" />
+          <root url="file://$MODULE_DIR$/../app/vendor/sebastian/exporter" />
+          <root url="file://$MODULE_DIR$/../app/vendor/sebastian/global-state" />
+          <root url="file://$MODULE_DIR$/../app/vendor/sebastian/recursion-context" />
+          <root url="file://$MODULE_DIR$/../app/vendor/sebastian/version" />
+          <root url="file://$MODULE_DIR$/../app/vendor/swiftmailer/swiftmailer" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/console" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/css-selector" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/debug" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/dom-crawler" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/event-dispatcher" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/finder" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/http-foundation" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/http-kernel" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/polyfill-php54" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/polyfill-php55" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/polyfill-php56" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/polyfill-util" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/process" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/routing" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/translation" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/var-dumper" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/yaml" />
+          <root url="file://$MODULE_DIR$/../app/vendor/tymon/jwt-auth" />
+          <root url="file://$MODULE_DIR$/../app/vendor/vlucas/phpdotenv" />
+          <root url="file://$MODULE_DIR$/../app/vendor/zizaco/entrust" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../app/vendor/asm89/stack-cors" />
+          <root url="file://$MODULE_DIR$/../app/vendor/barryvdh/laravel-cors" />
+          <root url="file://$MODULE_DIR$/../app/vendor/barryvdh/laravel-debugbar" />
+          <root url="file://$MODULE_DIR$/../app/vendor/classpreloader/classpreloader" />
+          <root url="file://$MODULE_DIR$/../app/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../app/vendor/dingo/api" />
+          <root url="file://$MODULE_DIR$/../app/vendor/dingo/blueprint" />
+          <root url="file://$MODULE_DIR$/../app/vendor/dnoegel/php-xdg-base-dir" />
+          <root url="file://$MODULE_DIR$/../app/vendor/doctrine/annotations" />
+          <root url="file://$MODULE_DIR$/../app/vendor/doctrine/inflector" />
+          <root url="file://$MODULE_DIR$/../app/vendor/doctrine/instantiator" />
+          <root url="file://$MODULE_DIR$/../app/vendor/doctrine/lexer" />
+          <root url="file://$MODULE_DIR$/../app/vendor/fzaninotto/faker" />
+          <root url="file://$MODULE_DIR$/../app/vendor/hamcrest/hamcrest-php" />
+          <root url="file://$MODULE_DIR$/../app/vendor/ircmaxell/password-compat" />
+          <root url="file://$MODULE_DIR$/../app/vendor/jakub-onderka/php-console-color" />
+          <root url="file://$MODULE_DIR$/../app/vendor/jakub-onderka/php-console-highlighter" />
+          <root url="file://$MODULE_DIR$/../app/vendor/jeremeamia/SuperClosure" />
+          <root url="file://$MODULE_DIR$/../app/vendor/laravel/framework" />
+          <root url="file://$MODULE_DIR$/../app/vendor/laravelangular/generators" />
+          <root url="file://$MODULE_DIR$/../app/vendor/league/flysystem" />
+          <root url="file://$MODULE_DIR$/../app/vendor/league/fractal" />
+          <root url="file://$MODULE_DIR$/../app/vendor/maximebf/debugbar" />
+          <root url="file://$MODULE_DIR$/../app/vendor/mockery/mockery" />
+          <root url="file://$MODULE_DIR$/../app/vendor/monolog/monolog" />
+          <root url="file://$MODULE_DIR$/../app/vendor/mtdowling/cron-expression" />
+          <root url="file://$MODULE_DIR$/../app/vendor/namshi/jose" />
+          <root url="file://$MODULE_DIR$/../app/vendor/nesbot/carbon" />
+          <root url="file://$MODULE_DIR$/../app/vendor/nikic/php-parser" />
+          <root url="file://$MODULE_DIR$/../app/vendor/paragonie/random_compat" />
+          <root url="file://$MODULE_DIR$/../app/vendor/phpdocumentor/reflection-docblock" />
+          <root url="file://$MODULE_DIR$/../app/vendor/phpseclib/phpseclib" />
+          <root url="file://$MODULE_DIR$/../app/vendor/phpspec/prophecy" />
+          <root url="file://$MODULE_DIR$/../app/vendor/phpunit/php-code-coverage" />
+          <root url="file://$MODULE_DIR$/../app/vendor/phpunit/php-file-iterator" />
+          <root url="file://$MODULE_DIR$/../app/vendor/phpunit/php-text-template" />
+          <root url="file://$MODULE_DIR$/../app/vendor/phpunit/php-timer" />
+          <root url="file://$MODULE_DIR$/../app/vendor/phpunit/php-token-stream" />
+          <root url="file://$MODULE_DIR$/../app/vendor/phpunit/phpunit" />
+          <root url="file://$MODULE_DIR$/../app/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://$MODULE_DIR$/../app/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../app/vendor/psy/psysh" />
+          <root url="file://$MODULE_DIR$/../app/vendor/sebastian/comparator" />
+          <root url="file://$MODULE_DIR$/../app/vendor/sebastian/diff" />
+          <root url="file://$MODULE_DIR$/../app/vendor/sebastian/environment" />
+          <root url="file://$MODULE_DIR$/../app/vendor/sebastian/exporter" />
+          <root url="file://$MODULE_DIR$/../app/vendor/sebastian/global-state" />
+          <root url="file://$MODULE_DIR$/../app/vendor/sebastian/recursion-context" />
+          <root url="file://$MODULE_DIR$/../app/vendor/sebastian/version" />
+          <root url="file://$MODULE_DIR$/../app/vendor/swiftmailer/swiftmailer" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/console" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/css-selector" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/debug" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/dom-crawler" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/event-dispatcher" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/finder" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/http-foundation" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/http-kernel" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/polyfill-php54" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/polyfill-php55" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/polyfill-php56" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/polyfill-util" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/process" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/routing" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/translation" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/var-dumper" />
+          <root url="file://$MODULE_DIR$/../app/vendor/symfony/yaml" />
+          <root url="file://$MODULE_DIR$/../app/vendor/tymon/jwt-auth" />
+          <root url="file://$MODULE_DIR$/../app/vendor/vlucas/phpdotenv" />
+          <root url="file://$MODULE_DIR$/../app/vendor/zizaco/entrust" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

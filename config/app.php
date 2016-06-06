@@ -158,6 +158,9 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
+        // third party providers
+        Barryvdh\Debugbar\ServiceProvider::class,
+        Matar\Frontend\FrontendServiceProvider::class,
     ],
 
     /*
@@ -203,6 +206,8 @@ return [
         'URL' => Illuminate\Support\Facades\URL::class,
         'Validator' => Illuminate\Support\Facades\Validator::class,
         'View' => Illuminate\Support\Facades\View::class,
+        'Debugbar' => Barryvdh\Debugbar\Facade::class,
+        
 
     ],
 

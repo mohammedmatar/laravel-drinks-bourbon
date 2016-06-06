@@ -1,0 +1,13 @@
+{
+    "name": "mohammed/frontend",
+    "description": "Frontend Tools and Helpers when working with Ljs",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohammed Matar",
+            "email": "mohammedmatar@yandex.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

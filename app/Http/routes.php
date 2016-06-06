@@ -11,6 +11,5 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', 'FrontendController@serveApp');
+Route::get('/unsupported-browser', 'FrontendController@unsupported');

@@ -1,0 +1,30 @@
+{
+  "name": "starter",
+  "description": "starter",
+  "main": "",
+  "authors": [
+    "Mohammed Matar <mohammedmatar@yandex.com>"
+  ],
+  "license": "MIT",
+  "homepage": "matar.grey-shade.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.6",
+    "angular-ui-router": "ui-router#^0.3.1",
+    "ngstorage": "~0.3.3",
+    "restangular": "^1.5.2",
+    "angular-loading-bar": "~0.8.0",
+    "satellizer": "^0.14.0",
+    "mdi": "^1.6.50",
+    "font-awesome": "fontawesome#^4.6.3",
+    "angular-locker": "^2.0.4",
+    "susy": "^2.2.12"
+  }
+}
