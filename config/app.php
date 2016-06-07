@@ -160,7 +160,7 @@ return [
 
         // third party providers
         Barryvdh\Debugbar\ServiceProvider::class,
-        Matar\Frontend\FrontendServiceProvider::class,
+//        Matar\Frontend\FrontendServiceProvider::class,
     ],
 
     /*
